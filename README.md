@@ -1,2 +1,2 @@
-# LGMVIP-WebDev
-This contains all the task completed during internship
+# Basic webpage
+This is a basic design of a webpage with a image coursel and a video coursel.
